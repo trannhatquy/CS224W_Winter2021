@@ -1,4 +1,6 @@
 # CS224W_Winter2021
-CS224W Winter 2021 Machine learning with Graphs 
+Hello everyone, 
 
-Homework solutions
+Here are my solutions for Stanford class, CS224W: Machine Learning with Graphs.
+
+Link: http://web.stanford.edu/class/cs224w/
